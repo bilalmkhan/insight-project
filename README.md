@@ -1,6 +1,6 @@
 # Project for Insight Data Science Fellowship
 
-## SurveySense: Measuring Workplace Satisfaction from a Large Employee Text Survet
+## SurveySense: Measuring Workplace Satisfaction from a Large Employee Text Survey
 
 Background: My client was a company in the senior care assisted-living industry employing over 100,000 people. There is research that shows that worker satisfaction is a strong predictor of satisfaction among residents in the senior care industry. Therefore, the company wants to measure employee job satisfaction. In addition, they also want to know what aspects of their jobs the employees are happy or unhappy about.
 

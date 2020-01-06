@@ -2,7 +2,7 @@
 
 ## SurveySense: Measuring Workplace Satisfaction from a Large Employee Text Survet
 
-A little background about the consulting project. My client was a company in the senior care assisted-living industry employing over 100,000 people. There is research that shows that worker satisfaction is a strong predictor of satisfaction among residents in the senior care industry. Therefore, the company wants to measure employee job satisfaction. In addition, they also want to know what aspects of their jobs the employees are happy or unhappy about.
+Background: My client was a company in the senior care assisted-living industry employing over 100,000 people. There is research that shows that worker satisfaction is a strong predictor of satisfaction among residents in the senior care industry. Therefore, the company wants to measure employee job satisfaction. In addition, they also want to know what aspects of their jobs the employees are happy or unhappy about.
 
 The company carried out a large survey of employees asking them two open ended questions: What aspects of their jobs are they happy about and what needs improvement. As a result, they ended up with over 200,000+ open-ended text responses.
 Since it is impossible for the company’s management to go through all these responses, I was recruited to help them make sense of the large amount of data.

@@ -13,7 +13,7 @@ Here is the link to the final dashboard that I delivered: https://tinyurl.com/su
 
 As can be seen from the dashboard, all comments are categorized in the 11 topics of interest identified by the company. We can see for example that employees are happy about their supportive coworkers and unhappy about their pay and feel the workplace is understaffed. There are also 6 randomly selected examples of comments classified in each topic area.
 
-The main challenge in carrying out this project was the lack of any labelled data. Since many comments fell in more than one category, an unsupervised learning approach such as clustering was not feasible.Moreover, since there are 11 topic areas, I needed a large labelled dataset to train a supervised model with good results.
+The main challenge in carrying out this project was the lack of any labelled data. Since many comments fell in more than one category, an unsupervised learning approach such as clustering was not feasible. Moreover, since there are 11 topic areas, I needed a large labelled dataset to train a supervised model with good results.
 
 To overcome this challenge I came up with a way to label the data. While going through the comments, I noticed that certain phrases could precisely predict their respective topic class. For example, phrases such as, ‘health insurance’, ‘PTO’, and ‘401K’ were always used in the context of Employee Benefits. On the other hand, the word benefits itself was not a precise predictor of the topic class employee benefits.cI wrote a python script that found such phrases and assigned the comments their respective topic labels. This gave me a labeled dataset of over 30,000 comments that I could use to carry out text classification using supervised machine learning.
 
